@@ -1,3 +1,3 @@
 # homework_3
-ne-heade
-footer
+old-header 
+new-footer
