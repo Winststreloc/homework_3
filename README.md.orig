@@ -1,8 +1,8 @@
 # homework_3
 <<<<<<< HEAD
-new-heaader 
-new-footer
+header 
 =======
-old-header 
-new-foozer
->>>>>>> bug-fix_footer
+heaader 
+new-heaader 
+>>>>>>> release/release_1
+footer
